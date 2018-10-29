@@ -231,6 +231,16 @@ aerofgt/input_map[p2_right] joystick_digital[3,0,0,1]
 aerofgt/input_map[p2_up] joystick_digital[3,0,1,0]
 aerofgt/input_map[p2_down] joystick_digital[3,0,1,1]
 
+agallet/input_map[p2_left] joystick_digital[3,0,0,0]
+agallet/input_map[p2_right] joystick_digital[3,0,0,1]
+agallet/input_map[p2_up] joystick_digital[3,0,1,0]
+agallet/input_map[p2_down] joystick_digital[3,0,1,1]
+
+ddonpach/input_map[p2_left] joystick_digital[3,0,0,0]
+ddonpach/input_map[p2_right] joystick_digital[3,0,0,1]
+ddonpach/input_map[p2_up] joystick_digital[3,0,1,0]
+ddonpach/input_map[p2_down] joystick_digital[3,0,1,1]
+
 galaga/input_dipswitch[coinage] free_play
 galaga/input_dipswitch[cabinet] cocktail
 
@@ -246,6 +256,7 @@ mslug/display_ror no
 mslug3/display_ror no 
 
 puckman/input_dipswitch[coinage] free_play
+puckman/input_dipswitch[cabinet] cocktail
 
 rtype/display_ror no 
 
@@ -264,7 +275,7 @@ tmnt/display_ror no
 unsquad/display_ror no
 unsquad/display_resize mixed 
 unsquad/display_resizeeffect mean 
-unsquad/display_expand 1.3 
+unsquad/display_expand 1.2 
 
 raiden/input_dipswitch[coinage] free_play
 raiden/input_map[p2_left] joystick_digital[3,0,0,0]
@@ -278,6 +289,7 @@ gyruss/input_dipswitch[coin_a] free_play
 mrdo/input_dipswitch[coin_b] free_play
 mrdo/input_dipswitch[coin_a] free_play
 mspacman/input_dipswitch[coinage] free_play
+mspacman/input_dipswitch[cabinet] cocktail
 paperboy/input_dipswitch[bonus_coins] free_play
 rtypeleo/input_dipswitch[coinage] free_play
 rampage/input_dipswitch[difficulty] free_play
