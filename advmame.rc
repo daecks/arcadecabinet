@@ -299,3 +299,5 @@ centiped/input_dipswitch[coinage] free_play
 mario/display_resize integer 
 mario/display_aspectx 3 
 mario/display_aspecty 4
+
+dkong/input_dipswitch[cabinet] cocktail
